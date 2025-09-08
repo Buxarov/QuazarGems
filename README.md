@@ -28,6 +28,14 @@ Each gem can be collected **once per player**, but afterwards it becomes availab
 
 <img src="https://github.com/user-attachments/assets/d6107f62-dd9c-4337-af1c-5c3ee8ea82d4" alt="QuazarGems Example" width="60%" />
 
+📝 Commands Explained
+
+- create
+<img width="419" height="442" alt="image" src="https://github.com/user-attachments/assets/691fc085-dffe-4501-a752-c7d38f72f143" />
+
+https://github.com/user-attachments/assets/b9295f38-cfcc-495e-9bf0-a9ce18bb9802
+
+
 
 ## ⚙️ Configuration File
 
