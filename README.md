@@ -24,6 +24,7 @@ Each gem can be collected **once per player**, but afterwards it becomes availab
 | `/list`       | Lists all gems in the world, with the option to teleport to them |
 | `/reset`      | Resets the gems collected by a player |
 | `/reset_all`  | Resets all player statistics, compatible with **QuazarBalloons, QuazarTreasures, and QuazarPortals** |
+<img width="635" height="109" alt="image" src="https://github.com/user-attachments/assets/d6107f62-dd9c-4337-af1c-5c3ee8ea82d4" />
 
 ---
 
