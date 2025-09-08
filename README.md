@@ -39,11 +39,16 @@ https://github.com/user-attachments/assets/4d8b70f4-2b7f-415b-a37f-8cf42bb84025
 
 - <img width="439" height="38" alt="image" src="https://github.com/user-attachments/assets/77540249-5eef-4802-ba01-1bdef2e56863" />
 
-
 ## ⚙️ Configuration File
 
-- Fully customizable **models, points, sounds, and particles** for the gems  
-- Allows server owners to tailor the plugin experience
+The configuration files allow full customization of **QuazarGems** to tailor the plugin experience. You can modify:  
+
+- **Gem model** – choose the appearance of each gem in the world  
+- **Points awarded** – set how many points each gem gives to a player  
+- **Gem sounds** – configure the sounds played when a gem is collected  
+- **ActionBar support** – display gem collection information in the player’s ActionBar  
+
+This flexibility allows server owners to create a unique and engaging gem collection experience for their players.  
 
 ---
 
