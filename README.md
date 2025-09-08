@@ -33,8 +33,11 @@ Each gem can be collected **once per player**, but afterwards it becomes availab
 - create
 <img width="419" height="442" alt="image" src="https://github.com/user-attachments/assets/691fc085-dffe-4501-a752-c7d38f72f143" />
 
-https://github.com/user-attachments/assets/b9295f38-cfcc-495e-9bf0-a9ce18bb9802
+https://github.com/user-attachments/assets/4d8b70f4-2b7f-415b-a37f-8cf42bb84025
 
+- List
+
+- <img width="439" height="38" alt="image" src="https://github.com/user-attachments/assets/77540249-5eef-4802-ba01-1bdef2e56863" />
 
 
 ## ⚙️ Configuration File
@@ -49,11 +52,5 @@ https://github.com/user-attachments/assets/b9295f38-cfcc-495e-9bf0-a9ce18bb9802
 1. A player finds a gem and collects it  
 2. The gem is registered as “collected” for that player, but remains available for others  
 3. Commands and configuration allow easy management of gems and statistics
-
+4. Compatible with PlaceholderAPI
 ---
-
-## 📸 Example
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp" alt="QuazarGems Example" width="60%" />
-</p>
