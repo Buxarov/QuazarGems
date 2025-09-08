@@ -54,3 +54,8 @@ https://github.com/user-attachments/assets/4d8b70f4-2b7f-415b-a37f-8cf42bb84025
 3. Commands and configuration allow easy management of gems and statistics
 4. Compatible with PlaceholderAPI
 ---
+
+
+
+https://github.com/user-attachments/assets/a5674543-9e38-486b-b011-c24ad14baaf6
+
