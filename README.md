@@ -25,10 +25,9 @@ Each gem can be collected **once per player**, but afterwards it becomes availab
 | `/reset`      | Resets the gems collected by a player |
 | `/reset_all`  | Resets all player statistics, compatible with **QuazarBalloons, QuazarTreasures, and QuazarPortals** |
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/d6107f62-dd9c-4337-af1c-5c3ee8ea82d4" alt="QuazarGems Example" width="60%" />
-</p>
----
+
+<img src="https://github.com/user-attachments/assets/d6107f62-dd9c-4337-af1c-5c3ee8ea82d4" alt="QuazarGems Example" width="60%" />
+
 
 ## ⚙️ Configuration File
 
